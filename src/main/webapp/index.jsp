@@ -25,6 +25,10 @@
 
     </div>
     <!-- The content of the website ends here! -->
+    
+    <div class="jumbotron">
+      <h1 class="display-3">Hello is me after i've finished the deployment</h1>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
